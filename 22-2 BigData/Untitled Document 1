@@ -1,0 +1,116 @@
+
+
+
+First, it is about my personal research.
+
+I analyzed the decrease in tourism due to COVID-19 and the decrease in sales of stores and the cause​
+Because now that travel has been 리바이털ㄹ라이즈드, I wanted to find out what has changed in tourism due to COVID-19
+
+First, we looked at what points we consider when we want to go on a trip after COVID-19
+I wanted to know the situation of people in similar situations with me, so I set the age group to 20 to 30 and summarized the area separately in Daejeon.
+
+The results of the previous survey showed that a large number of people were reluctant to be with them outdoors.
+So we looked at the tendency toward indoor activities
+Compared to the past, the rate of indoor activities has increased, and it has been shown that they think positively.
+There were also many opinions that indoor activities would continue in the future.
+
+Finally, we looked at the increase and decrease in sales of tourist attractions
+It was found that sales in the restaurant and lodging industries, which are the most essential for travel, decreased significantly.
+In addition, the reasons for the decline were a decrease in sales due to COVID-19 and a decrease in domestic demand.
+
+We compared the previous three elements through the graph
+It can be seen that the increase in the ratio of indoor activities due to the restraint of outdoor activities due to COVID-19 has led to a decrease in the tourism industry.
+Also, I think this phenomenon will continue even after the Corona situation.
+
+
+9.
+In Week 9, I learned about bio-formatics
+
+Biomatics is a combination of biology and infomation
+
+Information related to biomatics could be viewed on the website introduced by the professor in the lecture.
+
+And I downloaded eutils and 바이오파이썬, so I can handle bio-databases using python.
+
+10.
+In the 10th lecture, we learned about NLP.​
+I used talkization to tokenize the words in the sentence
+I chose a specific word and tried to delete it.​
+In addition, word-to-vector was used to examine the similarities between key words.
+
+읽기
+
+I tried to express the word talk with Python ​
+The entered sentence was divided into each word unit, and it could be divided equally based on spacing.
+
+Conversely, using detalkization separates all spaces and alphabets one by one.
+
+In addition, it was possible to specify specific words and output the results of deleting only them, and it was also possible to know how to delete words consisting of less than one character.
+
+Next, word2vec​
+I tried to use the word-to-vector data from the lecture as it is, but it said that it could not be used even if spacy was installed, so I referred to another tutorial about negative sampling.​
+Negative sampling is a method in which a model can judge the similarity between words after learning and use only the necessary information.​
+
+After coding, I was able to check the words that are highly similar to the words I designated through the test and even know how similar they are.
+
+11.
+In the 11th class, I learned how to create a smartphone application using app inventory.
+
+First, I accessed the homepage from the computer and finished preparing to install the application on my personal smartphone.
+
+Following the tutorial, basic buttons and labels were inserted on the screen, and the block editor was used to make music play when the button was clicked.
+
+After following the Code of Hour tutorial in turn and completing it, i could get a confirmation certificate..
+
+12.
+In the 12th lecture, I created a pedometer app using sensors on my smartphone using the MIT app inventory that I learned in the previous session
+
+Using the designer, the background was set to the desired image, and a label was inserted to see the number of steps and calories.
+In addition, a pedometer sensor was inserted as an invisible element.
+
+and using 블럭에디터 i created a process. When the application was launched, the action was activated, and a system was put in place to calculate the number of steps and calories consumed.
+
+And as a result of running the completed application on the smartphone, it was confirmed that the application was executed on the smartphone.
+However, counting the steps did not work normally (even if you tried several times)
+
+13.
+In the 13th lecture, I created an application using the app inventory as in the previous time.
+
+AI모델을 만들기 위해
+I created three classes, each entering ten images to learn the model​
+
+넥스트 I downloaded extension from GitHub and put it in this project​
+
+
+
+14.
+In the last 14th lecture, 
+I learned about A
+
+Data scientists want to build models with high
+accuracy. End users want to know why the model made a
+particular prediction.
+For this we can use XG boost.
+XGB is 
+읽기
+
+And as a practice, classifying Iris flower varieties through model learning was implemented as Python.
+
+Train learning data and test data separately
+Through the test, accuracy, recall, and prescription were checked.
+
+Finally, check the key words based on the learned data
+The length and width of the iris flower could be confirmed through the distribution..
+
+
+
+
+
+
+
+
+
+
+
+
+
